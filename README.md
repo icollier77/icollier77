@@ -1,6 +1,6 @@
 <div align="center"><img src="assets/millenium_bridge.jpg" alt="Header" width=100%></div>
 
-# 👋 Hello! Welcome to my GitHub! I am [Inessa](https://www.linkedin.com/in/inessacollier/).
+# 👋 Hello! Welcome to my GitHub! I am [Inessa Collier](https://www.linkedin.com/in/inessacollier/).
 
 ### I am a 👩‍💻 web developer / 🪴 entrepreneur / 💹 finance professional / 🎓 MBA / 🗣️ linguist. 
  - 👀 I’m interested in front-end development, databases, and large language models.
