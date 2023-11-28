@@ -27,7 +27,7 @@
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/tree/master/icons/python" title="JavaScript" alt="Python" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="Python" width="40" height="40"/>&nbsp;
 </p>
 
 
@@ -122,7 +122,7 @@ You can click the Preview link to take a look at your changes.
 
 [git-img-url]: https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
 
-[python-img-url]: https://github.com/devicons/devicon/tree/master/icons/python
+[python-img-url]: https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg
 
 <!-- MARKDOWN IMAGES -->
 [millenium-bridge-img]: assets/millenium_bridge.jpg
