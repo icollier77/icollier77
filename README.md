@@ -1,5 +1,6 @@
 <!-- ![Millenium bridge][millenium-bridge-img] -->
-![Programmer giphy][programmer-giphy]
+<div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
+</div>
 
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
@@ -16,10 +17,17 @@
 
 ### 🛠&nbsp;Languages and Tools:
 
-![Git image][git-img-url] | 
-![CSS image][css-img-url] | 
-![HTML5 image][html5-img-url] |
-![Bootstrap image][bootstrap-img-url]
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+<!-- ![Git image][git-img-url] |  -->
+<!-- ![CSS image][css-img-url] |  -->
+<!-- ![HTML5 image][html5-img-url] | -->
+<!-- ![Bootstrap image][bootstrap-img-url] -->
 
 
 <!-- ![JavaScript image][js-img-url] -->
@@ -29,11 +37,15 @@
 
 ### 🔥&nbsp;My Stats
 
-![Inessa's Profile][profile-stats-url]
+<section id="stats">
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icollier77&theme=tokyonight" alt="GithubStat"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icollier77&theme=tokyonight" alt="Stats"/>
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
+</section>
 
-![Inessa's GitHub stats][github-stats-url]
-
-![Inessa's Programming Languages][top-languages-url]
+<!-- ![Inessa's Profile][profile-stats-url] -->
+<!-- ![Inessa's GitHub stats][github-stats-url] -->
+<!-- ![Inessa's Programming Languages][top-languages-url] -->
 
 --- 
 ### Credits
