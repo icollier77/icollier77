@@ -16,7 +16,7 @@
 
  ### **Jump to:**
 
-| [Pins](#pins) || [Languages](#languages) || [Stats](#stats) || [Credits](#credits) |
+| [Pins](#pins) || [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
 
  ---
 ### **Pins**
@@ -27,7 +27,7 @@
 |               
  ---
 
-### Languages :
+### Skills :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
