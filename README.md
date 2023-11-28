@@ -21,8 +21,15 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+
+### Currently Learning
+
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/tree/master/icons/python" title="JavaScript" alt="Python" width="40" height="40"/>&nbsp;
+</p>
+
 
 <!-- ![Git image][git-img-url] |  -->
 <!-- ![CSS image][css-img-url] |  -->
@@ -114,6 +121,8 @@ You can click the Preview link to take a look at your changes.
 [Webpack-img-url]: https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg
 
 [git-img-url]: https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg
+
+[python-img-url]: https://github.com/devicons/devicon/tree/master/icons/python
 
 <!-- MARKDOWN IMAGES -->
 [millenium-bridge-img]: assets/millenium_bridge.jpg
