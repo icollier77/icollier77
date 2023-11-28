@@ -14,9 +14,20 @@
 
  [My Repositories][my-repos-url]  ||  [My LinkedIn][linkedin-url]  ||  [My Discord][discord-url]  ||  [Email me][email-me]
 
+ ### **Jump to:**
+
+| [Pins](#pins) || [Languages](#languages) || [Stats](#stats) || [Credits](#credits) |
+
+ ---
+### **Pins**
+
+|                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)          |
+|               
  ---
 
-### 🛠&nbsp;Languages and Tools:
+### Languages :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -43,7 +54,7 @@
 
 ---
 
-### 🔥&nbsp;My Stats
+### Stats
 
 <section id="stats">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icollier77&theme=tokyonight" alt="GithubStat"/>
