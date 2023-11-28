@@ -9,7 +9,8 @@
 ### &#128075; About Me :
 
  - 👀 I’m interested in front-end development, databases, and large language models.
-- </> Currently learning intro to CS and Python through [CS50x][CSx] and [CS50P][CS50P], and taking a [Front-End Web Development bootcamp][bootcamp-url].
+- </> In 2023 I started learning intro to computer science and basic Python through [CS50x][CSx] and [CS50P][CS50P]. 
+- 💻 Currently I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, etc.
 
  [My Repositories][my-repos-url]  ||  [My LinkedIn][linkedin-url]  ||  [My Discord][discord-url]  ||  [Email me][email-me]
 
