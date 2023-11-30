@@ -6,7 +6,7 @@
 
 ### I am a 👩‍💻 aspiring web developer / 🪴 entrepreneur / 💹 10+ years finance professional / 🎓 MBA / 🗣️ linguist.
 
-### &#128075; About Me :
+## &#128075; About Me :
 
  - 👀 I’m interested in front-end development, databases, and large language models.
 - </> In 2023 I started learning intro to computer science and basic Python through [CS50x][CSx] and [CS50P][CS50P]. 
@@ -19,7 +19,7 @@
 | [Pins](#pins) || [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
 
  ---
-### **Pins**
+## **Pins**
 
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -27,7 +27,7 @@
 |               
  ---
 
-### Skills :
+## Skills :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
@@ -35,7 +35,9 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
 
-### Currently Learning
+
+
+## Currently Learning
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -54,7 +56,7 @@
 
 ---
 
-### Stats
+## Stats
 
 <section id="stats">
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icollier77&theme=tokyonight" alt="GithubStat"/>
@@ -66,8 +68,11 @@
 <!-- ![Inessa's GitHub stats][github-stats-url] -->
 <!-- ![Inessa's Programming Languages][top-languages-url] -->
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 --- 
-### Credits
+## Credits
 
 <details>
     <summary>Resources</summary>
