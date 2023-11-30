@@ -67,9 +67,6 @@
 <!-- ![Inessa's GitHub stats][github-stats-url] -->
 <!-- ![Inessa's Programming Languages][top-languages-url] -->
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 --- 
 ## Credits
 
