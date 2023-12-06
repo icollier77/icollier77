@@ -23,16 +23,23 @@
 
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)          |             
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)          |
  ---
 
 ## Skills :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 
 
 
@@ -44,15 +51,6 @@
 </p>
 
 
-<!-- ![Git image][git-img-url] |  -->
-<!-- ![CSS image][css-img-url] |  -->
-<!-- ![HTML5 image][html5-img-url] | -->
-<!-- ![Bootstrap image][bootstrap-img-url] -->
-
-
-<!-- ![JavaScript image][js-img-url] -->
-
-
 ---
 
 ## Stats
@@ -62,10 +60,6 @@
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icollier77&theme=tokyonight" alt="Stats"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
 </section>
-
-<!-- ![Inessa's Profile][profile-stats-url] -->
-<!-- ![Inessa's GitHub stats][github-stats-url] -->
-<!-- ![Inessa's Programming Languages][top-languages-url] -->
 
 --- 
 ## Credits
