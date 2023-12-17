@@ -28,7 +28,7 @@
 |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)  |
 |                                                        ![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)                                                         |                                               |
 
-## Skills:
+## Skills
 
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
     <tbody>
@@ -87,7 +87,7 @@
         </tr>
         <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
-        <td>
+        </td>
         <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
         </td>
@@ -109,11 +109,9 @@
 </table>
 
 
-## To learn later
-<p>
-Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and Server APIs.
-</p>
+### To learn later
 
+Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and Server APIs.
 
 ---
 
