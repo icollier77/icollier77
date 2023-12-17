@@ -24,31 +24,75 @@
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=console-finances&theme=tokyonight)](https://github.com/icollier77/console-finances)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)          |
-|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)          |
+|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)  |
+|                                                        ![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)                                                         |                                               |
 
-## Skills :
+## Skills:
 
+<table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
+    <tbody>
+        <tr>
+            <th colspan="8" style="color: #2881a5">Current Skills</th>
+        </tr>
+        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="Python">
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <th colspan="8" style="color: #2881a5">Learning</th>
+        </tr>
+    </tbody>
+</table>
+
+
+## To learn later
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="Python" width="40" height="40"/>&nbsp;
-</p>
-
-
-## Currently Learning
-
-<p>
-Later in the Bootcamp I will be learning Node.js, React, Netlify, RESTful APIs, jQuery.
+     Later in the Bootcamp I will be learning Node.js, React, Netlify, RESTful APIs, jQuery.
 </p>
 
 
