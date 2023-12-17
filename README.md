@@ -66,16 +66,14 @@
                 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VisualStudio" alt="VisualStudio">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode">
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
             </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="Python">
+            <td>
+            </td>
+            <td>
             </td>
             <td>
             </td>
@@ -87,13 +85,33 @@
         <tr>
             <th colspan="8" style="color: #2881a5">Learning</th>
         </tr>
+        <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
+        <td>
+        <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
+        </td>
+        <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
+        <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
+        </td>
+       <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C">
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
     </tbody>
 </table>
 
 
 ## To learn later
 <p>
-     Later in the Bootcamp I will be learning Node.js, React, Netlify, RESTful APIs, jQuery.
+Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and Server APIs.
 </p>
 
 
