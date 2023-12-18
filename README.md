@@ -4,7 +4,7 @@
 
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
-### I blend my background in business 💼 with skills in IT 💻 to help advance technology solutions 💡.
+### I blend my background in business 💼 with skills in IT 💻 to help advance technology solutions 🌐.
 
 ## &#128075; About Me:
 
