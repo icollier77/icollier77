@@ -4,13 +4,15 @@
 
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
-### I am a 👩‍💻 aspiring web developer / 🪴 entrepreneur / 💹 10+ years finance professional / 🎓 MBA / 🗣️ linguist.
+### I blend my background in business 💼 with skills in IT 💻 to advance technology solutions that can solve our challenges and bring prosperity for all.
 
-## &#128075; About Me :
+## &#128075; About Me:
 
- - 👀 I’m interested in front-end development, databases, and large language models.
-- </> In 2023 I started learning intro to computer science and basic Python through [CS50x][CSx] and [CS50P][CS50P]. 
-- 💻 Currently I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, etc.
+I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10+ year international career in the financial industry 💹, a Post-Graduate Diploma from Cambridge 📜, and a startup experience 🪴, I am diving into technology and learning programming 👩‍💻.
+
+ - 👀 I’m interested in programming, both front and back end. The ultimate goal is to craft a path toward Computational Linguistics.
+- </> In 2023 I started learning programming with an introduction to **computer science** through [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
+- 💻 Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
 
  [My Repositories][my-repos-url]  ||  [My LinkedIn][linkedin-url]  ||  [My Discord][discord-url]  ||  [Email me][email-me]
 
@@ -133,9 +135,9 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
   
 - GitHub profile template from [Laura Cole][laura-cole-url], my teacher in the [Bootcamp][bootcamp-url].
 
-- Another great GitHub profile used as a template from [Anya Chernova][chernova-url]
+<!-- - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
 
-- Animated image on top of my page from [programmer-giphy]
+- Animated image on top of my page from [giphy.com][programmer-giphy].
 
 <!---
 icollier77/icollier77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -146,6 +148,10 @@ You can click the Preview link to take a look at your changes.
 [CSx]: https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science?index=product&queryID=56ffaba62e74d703199b19290495f9b1&position=1&results_level=first-level-results&term=cs50x&objectID=course-da1b2400-322b-459b-97b0-0c557f05d017&campaign=CS50%27s+Introduction+to+Computer+Science&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
 
 [CS50P]: https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python?index=product&queryID=22e20f032f367d97406cc05889787e61&position=1&results_level=first-level-results&term=cs50p&objectID=course-2cc794d0-316d-42f7-bbfd-25c34e4cd5df&campaign=CS50%27s+Introduction+to+Programming+with+Python&source=edX&product_category=course&placement_url=https%3A%2F%2Fwww.edx.org%2Fsearch
+
+[upenn-course-url]: https://www.coursera.org/learn/computational-thinking-problem-solving
+
+[stanford-course-url]: https://learning.edx.org/course/course-v1:StanfordOnline+SOHS-YPHILX0002+2T2020/home
 
 [linkedin-url]: https://www.linkedin.com/in/inessacollier/
 
