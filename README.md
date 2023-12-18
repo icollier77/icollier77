@@ -134,10 +134,11 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 <!-- - Photo of the <a href="https://unsplash.com/photos/a-view-of-st-pauls-cathedral-from-the-millennium-bridge-in-london-tvPvROBv0F4">Millenium Bridge</a> in London by <a href="https://unsplash.com/@padolsey">James Padolsey</a>. -->
   
 - GitHub profile template from [Laura Cole][laura-cole-url], my teacher in the [Bootcamp][bootcamp-url].
-
-<!-- - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
-
 - Animated image on top of my page from [giphy.com][programmer-giphy].
+- Visit counter widget from [Anton Komarev][visits-counter-url].
+- Icons for the tech skills from [devicon][skills-icons-url].
+- GitHub Stats cards from [Anurag Hazra][github-stats-url].
+<!-- - - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
 
 <!---
 icollier77/icollier77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -203,3 +204,9 @@ You can click the Preview link to take a look at your changes.
 [millenium-bridge-img]: assets/millenium_bridge.jpg
 
 [programmer-giphy]: https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
+
+[visits-counter-url]: https://github.com/antonkomarev/github-profile-views-counter
+
+[skills-icons-url]: https://github.com/devicons/devicon/tree/master/icons
+
+[ghstats-cards-url]: https://github.com/anuraghazra/github-readme-stats 
