@@ -142,6 +142,7 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 - Visit counter widget from [Anton Komarev][visits-counter-url].
 - Icons for the tech skills from [devicon][skills-icons-url].
 - GitHub Stats cards from [Anurag Hazra][github-stats-url].
+- Wakatime stats from [Athul Cyriac Ajay][wakatime-url].
 <!-- - - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
 
 <!---
@@ -214,3 +215,5 @@ You can click the Preview link to take a look at your changes.
 [skills-icons-url]: https://github.com/devicons/devicon/tree/master/icons
 
 [ghstats-cards-url]: https://github.com/anuraghazra/github-readme-stats 
+
+[wakatime-url]: https://github.com/athul/waka-readme?tab=readme-ov-file
