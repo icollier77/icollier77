@@ -1,4 +1,4 @@
-<!-- ![Millenium bridge][millenium-bridge-img] -->
+****<!-- ![Millenium bridge][millenium-bridge-img] -->
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
 </div>
 
@@ -123,6 +123,10 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=icollier77&theme=tokyonight" alt="GithubStat"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icollier77&theme=tokyonight" alt="Stats"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
+</section>
+<section>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </section>
 
 --- 
