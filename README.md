@@ -126,6 +126,11 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 </section>
 <section>
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 </section>
 
