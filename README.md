@@ -124,7 +124,8 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=icollier77&theme=tokyonight" alt="Stats"/>
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
 </section>
-<section>
+
+<section id="waka">
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 </section>
