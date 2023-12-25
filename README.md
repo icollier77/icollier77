@@ -134,7 +134,11 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Markdown     2 hrs 57 mins   ███████████▒░░░░░░░░░░░░░   45.72 %
+JavaScript   1 hr 59 mins    ███████▓░░░░░░░░░░░░░░░░░   30.89 %
+HTML         49 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.86 %
+YAML         32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
+CSS          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
 ```
 
 <!--END_SECTION:waka-->
