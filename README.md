@@ -2,8 +2,6 @@
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
 </div>
 
-[![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
-
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
 ### I blend my background in business 💼 with skills in IT 💻 to help advance technology solutions 🌐.
@@ -143,7 +141,7 @@ CSS          8 mins          ▓░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-#### Time coding since 26 December, 2023
+#### 🕣 Time coding since 26 December, 2023
 
 [![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg?color=blueviolet?style=plastic)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
 
