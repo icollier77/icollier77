@@ -2,6 +2,8 @@
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
+
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
 ### I blend my background in business 💼 with skills in IT 💻 to help advance technology solutions 🌐.
@@ -126,6 +128,9 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 </section>
 
 <section id="waka">
+
+### My coding stats for the last 7 days
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -133,6 +138,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+#### Time coding since 23 December, 2023
+
+[![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
+
 </section>
 
 --- 
