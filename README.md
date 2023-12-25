@@ -145,7 +145,7 @@ CSS          8 mins          ▓░░░░░░░░░░░░░░░░
 
 #### Time coding since 23 December, 2023
 
-[![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
+[![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg?color=blueviolet?style=plastic)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
 
 </section>
 
