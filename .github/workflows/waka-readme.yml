@@ -29,7 +29,7 @@ jobs:
           SHOW_TIMEZONE: true
           SHOW_EDITORS: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
-          IGNORED_LANGUAGES: YAML JSON TOML
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
           COMMITTER_NAME: GitHubActionBot
