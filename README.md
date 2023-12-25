@@ -129,7 +129,7 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 
 <section id="waka">
 
-### My coding stats for the last 7 days
+### 📊 This week I spent my time on
 
 <!--START_SECTION:waka-->
 

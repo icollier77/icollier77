@@ -25,9 +25,9 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_COMMIT: true
           SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE_PER_REPO: true
           SHOW_TIMEZONE: true
           SHOW_EDITORS: true
-          SHOW_LANGUAGE_PER_REPO: true
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
           IGNORED_LANGUAGES: YAML JSON TOML
           TARGET_BRANCH: master # optional
