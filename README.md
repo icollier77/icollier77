@@ -45,6 +45,9 @@ I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10
                 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
             </td>
             <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+            </td>
+            <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
             </td>
             <td align="center" width=100px>
@@ -59,9 +62,6 @@ I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
             </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
-            </td>
         </tr>
         <tr>
             <td align="center" width=100px>
@@ -71,7 +71,7 @@ I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
             </td>
             <td>
             </td>
