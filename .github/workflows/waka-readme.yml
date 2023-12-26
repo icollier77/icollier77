@@ -15,19 +15,19 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          SHOW_TITLE: true
+          SHOW_TITLE: "true"
           BLOCKS: ->
           TIME_RANGE: last_7_days
-          SHOW_LANGUAGE: true
-          SHOW_LINES_OF_CODE: true
-          SHOW_TOTAL_CODE_TIME: true
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_COMMIT: true
-          SHOW_DAYS_OF_WEEK: true
-          SHOW_LANGUAGE_PER_REPO: true
-          SHOW_TIMEZONE: true
-          SHOW_EDITORS: true
+          SHOW_LANGUAGE: "true"
+          SHOW_LINES_OF_CODE: "true"
+          SHOW_TOTAL_CODE_TIME: "true"
+          SHOW_TIME: "true" # optional
+          SHOW_TOTAL: "true" # optional
+          SHOW_COMMIT: "true"
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_LANGUAGE_PER_REPO: "true"
+          SHOW_TIMEZONE: "true"
+          SHOW_EDITORS: "true"
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics 
           # IGNORED_LANGUAGES: YAML JSON TOML Markdown
           TARGET_BRANCH: master # optional
