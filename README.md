@@ -6,17 +6,17 @@
 
 ### I blend my background in business 💼 with skills in IT 💻 to help advance technology solutions 🌐.
 
-## &#128075; About Me:
+## About Me:
 
-I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10+ year international career in the financial industry 💹, a Post-Graduate Diploma from Cambridge 📜, and a startup experience 🪴, I am diving into technology and learning programming 👩‍💻.
+I love learning so after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from Cambridge, and a startup experience, I am diving into the world of technology and learning programming.
 
- - 👀 I’m interested in both front and back end. The ultimate goal is to craft a path toward ML and AI.
-- </> In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
-- 💻 Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
+- I’m interested in both front and back end. The ultimate goal is to craft a path toward ML and AI.
+- In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
+- Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
 
 [![My LinkedIn][linkedin-badge]][linkedin-url] [![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url] [![My Discord][discord-badge]][discord-url] [![Email me][email-badge]][email-me]
 
- ### **Jump to:**
+### **Jump to:**
 
 | [Pins](#pins) || [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
 
@@ -165,6 +165,7 @@ CSS          8 mins          >------------------------   02.23 %
 - Icons for the tech skills from [devicon][skills-icons-url].
 - GitHub Stats cards from [Anurag Hazra][github-stats-url].
 - Wakatime stats from [Athul Cyriac Ajay][wakatime-url].
+- Blog post ["5 tips for making your GitHub profile page accessible"][github-accessibility-url].
 <!-- - - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
 
 <!---
@@ -182,10 +183,6 @@ You can click the Preview link to take a look at your changes.
 [stanford-course-url]: https://learning.edx.org/course/course-v1:StanfordOnline+SOHS-YPHILX0002+2T2020/home
 
 [bootcamp-url]: https://www.edx.org/boot-camps/coding/skills-bootcamp-in-front-end-web-development
-
-
-
-
 
 [my-repo-badge]: https://img.shields.io/badge/My_Repositories-purple?style=plastic&logo=github
 
@@ -256,3 +253,5 @@ You can click the Preview link to take a look at your changes.
 [ghstats-cards-url]: https://github.com/anuraghazra/github-readme-stats 
 
 [wakatime-url]: https://github.com/athul/waka-readme?tab=readme-ov-file
+
+[github-accessibility-url]: https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
