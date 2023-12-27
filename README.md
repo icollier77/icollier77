@@ -145,7 +145,7 @@ CSS          8 mins          >------------------------   02.23 %
 
 <!--END_SECTION:waka-->
 
-#### 🕣 Time coding since 24 December, 2023
+#### 🕣 Time coding since 30 November, 2023
 
 [![wakatime](https://wakatime.com/badge/user/018c1efa-da5d-47a2-a07a-d601111e0486.svg)](https://wakatime.com/@018c1efa-da5d-47a2-a07a-d601111e0486)
 
@@ -190,7 +190,6 @@ You can click the Preview link to take a look at your changes.
 [my-repo-badge]: https://img.shields.io/badge/My_Repositories-purple?style=plastic&logo=github
 
 [my-repo-url]: https://github.com/icollier77?tab=repositories
-
 
 [linkedin-badge]: https://img.shields.io/badge/My_LinkedIn-orange?style=plastic&logo=LinkedIn
 
