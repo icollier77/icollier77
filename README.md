@@ -196,7 +196,7 @@ You can click the Preview link to take a look at your changes.
 
 [linkedin-url]: https://www.linkedin.com/in/inessacollier/
 
-[freecodecamp-badge]: https://img.shields.io/badge/freeCodeCamp-darkgreen?style=plastic&logo=freeCodeCamp
+[freecodecamp-badge]: https://img.shields.io/badge/freeCodeCamp-black?style=plastic&logo=freeCodeCamp
 
 [freecodecamp-url]: https://www.freecodecamp.org/icollier77
 
@@ -205,7 +205,6 @@ You can click the Preview link to take a look at your changes.
 [discord-url]: https://discord.gg/WG4KwcS3m5
 
 [email-badge]: https://img.shields.io/badge/Email_me-blue?style=plastic&logo=gmail
-
 
 [email-me]: mailto:inessa.collier@gmail.com
 
