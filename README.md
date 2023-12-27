@@ -14,7 +14,7 @@ I love learning 📚 so after a degree in linguistics 🗣️, an MBA 🎓, a 10
 - </> In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
 - 💻 Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
 
- [My Repositories][my-repos-url]  ||  [My LinkedIn][linkedin-url]  ||  [My Discord][discord-url]  ||  [Email me][email-me]
+[![My LinkedIn][linkedin-badge]][linkedin-url] [![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url] [![Email me][email-badge]][email-me]
 
  ### **Jump to:**
 
@@ -181,13 +181,31 @@ You can click the Preview link to take a look at your changes.
 
 [stanford-course-url]: https://learning.edx.org/course/course-v1:StanfordOnline+SOHS-YPHILX0002+2T2020/home
 
-[linkedin-url]: https://www.linkedin.com/in/inessacollier/
-
 [bootcamp-url]: https://www.edx.org/boot-camps/coding/skills-bootcamp-in-front-end-web-development
 
-[my-repos-url]: https://github.com/icollier77?tab=repositories
+
+
+
+
+[my-repo-badge]: https://img.shields.io/badge/My_Repositories-purple?style=plastic&logo=github
+
+[my-repo-url]: https://github.com/icollier77?tab=repositories
+
+
+[linkedin-badge]: https://img.shields.io/badge/My_LinkedIn-orange?style=plastic&logo=LinkedIn
+
+[linkedin-url]: https://www.linkedin.com/in/inessacollier/
+
+[freecodecamp-badge]: https://img.shields.io/badge/freeCodeCamp-darkgreen?style=plastic&logo=freeCodeCamp
+
+[freecodecamp-url]: https://www.freecodecamp.org/icollier77
+
+[discord-badge]: https://img.shields.io/badge/My_Discord-lightblue?style=plastic&logo=discord
 
 [discord-url]: https://discord.gg/WG4KwcS3m5
+
+[email-badge]: https://img.shields.io/badge/Email_me-blue?style=plastic&logo=gmail
+
 
 [email-me]: mailto:inessa.collier@gmail.com
 
