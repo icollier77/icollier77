@@ -161,6 +161,7 @@ CSS          14 mins         >------------------------   02.66 %
   
 - GitHub profile template from [Laura Cole][laura-cole-url], my teacher in the [Bootcamp][bootcamp-url].
 - Animated image on top of my page from [giphy.com][programmer-giphy].
+- Social media badges from [Shield.io][shield-url].
 - Visit counter widget from [Anton Komarev][visits-counter-url].
 - Icons for the tech skills from [devicon][skills-icons-url].
 - GitHub Stats cards from [Anurag Hazra][github-stats-url].
@@ -255,3 +256,5 @@ You can click the Preview link to take a look at your changes.
 [wakatime-url]: https://github.com/athul/waka-readme?tab=readme-ov-file
 
 [github-accessibility-url]: https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/
+
+[shield-url]: https://shields.io/
