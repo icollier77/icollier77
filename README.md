@@ -132,15 +132,15 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2023 - To: 27 December 2023
+From: 23 December 2023 - To: 29 December 2023
 
-Total Time: 9 hrs 46 mins
+Total Time: 12 hrs 44 mins
 
-JavaScript   3 hrs 53 mins   >>>>>>>>>>---------------   39.84 %
-Markdown     2 hrs 55 mins   >>>>>>>------------------   29.99 %
-YAML         1 hr 39 mins    >>>>---------------------   16.95 %
-HTML         57 mins         >>-----------------------   09.87 %
-CSS          19 mins         >------------------------   03.31 %
+JavaScript   6 hrs 58 mins   >>>>>>>>>>>>>>-----------   54.82 %
+Markdown     2 hrs 43 mins   >>>>>--------------------   21.44 %
+YAML         1 hr 34 mins    >>>----------------------   12.34 %
+HTML         1 hr 2 mins     >>-----------------------   08.22 %
+CSS          24 mins         >------------------------   03.16 %
 ```
 
 <!--END_SECTION:waka-->
