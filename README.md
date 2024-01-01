@@ -25,10 +25,10 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=password-generator&theme=tokyonight)](https://github.com/icollier77/password-generator)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=console-finances&theme=tokyonight)](https://github.com/icollier77/console-finances)          
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=word-analytics&theme=tokyonight)](https://github.com/icollier77/word-analytics)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)          |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=life-in-uk-quiz&theme=tokyonight)](https://github.com/icollier77/life-in-uk-quiz)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=password-generator&theme=tokyonight)](https://github.com/icollier77/password-generator)          |
+|                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=console-finances&theme=tokyonight)](https://github.com/icollier77/console-finances)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)          |
 |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)  |
-|                                                        ![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)                                                         |                                               |
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)                                                         |                                               |
 
 ## Skills
 
@@ -113,7 +113,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 ### To learn later
 
-Later in the [Bootcamp][bootcamp-url] I will be learning Netlify, Web APIs and Server APIs.
+Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, third-party APIs, Netlify, React, NodeJS.
 
 ---
 
