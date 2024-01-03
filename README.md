@@ -1,4 +1,4 @@
-****<!-- ![Millenium bridge][millenium-bridge-img] -->
+***<!-- ![Millenium bridge][millenium-bridge-img] -->
 <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
 </div>
 
@@ -73,7 +73,8 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
             </td>
-            <td>
+            <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
             </td>
             <td>
             </td>
@@ -91,15 +92,14 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
         </td>
         <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
-        </td>
-        <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
         <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
         </td>
        <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C">
+        </td>
+        <td>
         </td>
         <td>
         </td>
