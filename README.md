@@ -133,15 +133,15 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, third-part
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 03 January 2024
+From: 29 December 2023 - To: 04 January 2024
 
-Total Time: 32 hrs 38 mins
+Total Time: 31 hrs 22 mins
 
-JavaScript   24 hrs 39 mins  >>>>>>>>>>>>>>>>>>>------   75.57 %
-Markdown     3 hrs 59 mins   >>>----------------------   12.24 %
-HTML         3 hrs 16 mins   >>>----------------------   10.03 %
-CSS          35 mins         -------------------------   01.81 %
-YAML         6 mins          -------------------------   00.35 %
+JavaScript   23 hrs 8 mins   >>>>>>>>>>>>>>>>>>-------   73.76 %
+Markdown     3 hrs 48 mins   >>>----------------------   12.12 %
+HTML         3 hrs 46 mins   >>>----------------------   12.02 %
+CSS          32 mins         -------------------------   01.74 %
+YAML         6 mins          -------------------------   00.37 %
 ```
 
 <!--END_SECTION:waka-->
