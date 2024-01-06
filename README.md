@@ -113,7 +113,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 ### To learn later
 
-Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, third-party APIs, Netlify, React, NodeJS.
+Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, Netlify, React, NodeJS.
 
 ---
 
@@ -186,24 +186,23 @@ You can click the Preview link to take a look at your changes.
 
 [bootcamp-url]: https://www.edx.org/boot-camps/coding/skills-bootcamp-in-front-end-web-development
 
-[my-repo-badge]: https://img.shields.io/badge/My_Repositories-purple?style=plastic&logo=github
+[my-repo-badge]: https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white
 
 [my-repo-url]: https://github.com/icollier77?tab=repositories
 
-[linkedin-badge]: https://img.shields.io/badge/My_LinkedIn-orange?style=plastic&logo=LinkedIn
+[linkedin-badge]: https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white
 
 [linkedin-url]: https://www.linkedin.com/in/inessacollier/
 
-[freecodecamp-badge]: https://img.shields.io/badge/freeCodeCamp-black?style=plastic&logo=freeCodeCamp
+[freecodecamp-badge]: https://img.shields.io/badge/freeCodeCamp-5a01a7?style=for-the-badge&logo=freeCodeCamp&logoColor=white
 
 [freecodecamp-url]: https://www.freecodecamp.org/icollier77
 
-[discord-badge]: https://img.shields.io/badge/My_Discord-lightgrey?style=plastic&logo=discord
-
+[discord-badge]: https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white
 
 [discord-url]: https://discord.com/channels/icollier77
 
-[email-badge]: https://img.shields.io/badge/Email_me-blue?style=plastic&logo=gmail
+[email-badge]: https://img.shields.io/badge/Email-4285F4?style=for-the-badge&logo=gmail&logoColor=white
 
 [email-me]: mailto:inessa.collier@gmail.com
 
