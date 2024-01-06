@@ -14,6 +14,8 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 - In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
 - Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
 
+### Let's connect:
+
 [![My LinkedIn][linkedin-badge]][linkedin-url] [![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url] [![My Discord][discord-badge]][discord-url] [![Email me][email-badge]][email-me]
 
 ### **Jump to:**
