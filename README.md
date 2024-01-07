@@ -14,7 +14,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 - In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
 - Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] and learning HTML5, CSS, Bootstrap, JavaScript, React, NodeJS, APIs, etc.
 
-### Let's connect:
+#### Let's connect
 
 [![My LinkedIn][linkedin-badge]][linkedin-url] [![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url] [![My Discord][discord-badge]][discord-url] [![Email me][email-badge]][email-me]
 
@@ -30,7 +30,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=life-in-uk-quiz&theme=tokyonight)](https://github.com/icollier77/life-in-uk-quiz)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=password-generator&theme=tokyonight)](https://github.com/icollier77/password-generator)          |
 |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=console-finances&theme=tokyonight)](https://github.com/icollier77/console-finances)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)          |
 |                [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=inessa-collier-portfolio&theme=tokyonight)](https://github.com/icollier77/inessa-collier-portfolio)          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=assignment-one-horiseon&theme=tokyonight)](https://github.com/icollier77/assignment-one-horiseon)  |
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)                                                         |                                               |
+|                                                         |                                               |
 
 ## Skills
 
@@ -127,6 +127,7 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, Netlify, R
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
 </section>
 
+![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)  
 
 <section id="waka">
 
