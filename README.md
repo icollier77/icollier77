@@ -16,7 +16,11 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 #### Let's connect
 
-[![My LinkedIn][linkedin-badge]][linkedin-url] [![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url] [![My Discord][discord-badge]][discord-url] [![Email me][email-badge]][email-me]
+[![My LinkedIn][linkedin-badge]][linkedin-url] [![Email me][email-badge]][email-me] [![My Discord][discord-badge]][discord-url]
+
+#### My tech journey
+
+[![My Repositories][my-repo-badge]][my-repo-url] [![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url]
 
 ### **Jump to:**
 
@@ -127,7 +131,9 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, Netlify, R
  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=icollier77&theme=tokyonight" alt="ProgramLanguage"/>
 </section>
 
-![Github Page Visit Count](https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic)  
+<div>
+    <img src="https://komarev.com/ghpvc/?username=icollier77&color=blueviolet&style=plastic" alt="widget to count page views"> 
+</div>
 
 <section id="waka">
 
@@ -189,7 +195,7 @@ You can click the Preview link to take a look at your changes.
 
 [bootcamp-url]: https://www.edx.org/boot-camps/coding/skills-bootcamp-in-front-end-web-development
 
-[my-repo-badge]: https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white
+[my-repo-badge]: https://img.shields.io/badge/My_repositories-6e5494?style=for-the-badge&logo=github&logoColor=white
 
 [my-repo-url]: https://github.com/icollier77?tab=repositories
 
