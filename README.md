@@ -142,14 +142,14 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Server APIs, Netlify, R
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2023 - To: 05 January 2024
+From: 31 December 2023 - To: 06 January 2024
 
-Total Time: 36 hrs 30 mins
+Total Time: 35 hrs 37 mins
 
-JavaScript   25 hrs 57 mins  >>>>>>>>>>>>>>>>>>-------   71.11 %
-HTML         5 hrs 30 mins   >>>>---------------------   15.11 %
-Markdown     4 hrs 6 mins    >>>----------------------   11.24 %
-CSS          48 mins         >------------------------   02.22 %
+JavaScript   24 hrs 6 mins   >>>>>>>>>>>>>>>>>--------   67.65 %
+Markdown     6 hrs 17 mins   >>>>---------------------   17.64 %
+HTML         4 hrs 21 mins   >>>----------------------   12.23 %
+CSS          46 mins         >------------------------   02.16 %
 YAML         6 mins          -------------------------   00.32 %
 ```
 
