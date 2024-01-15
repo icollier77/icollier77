@@ -12,7 +12,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 - I’m interested in both front and back end. The ultimate goal is to craft a path toward ML and AI.
 - In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
-- Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] from **EdX** along with [this course][colt-steele-url] from **Colt Steele** and learning HTML5, CSS3, Bootstrap, JavaScript, React, NodeJS, Web APIs, etc.
+- Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] from **EdX** along with [this course][colt-steele-url] from **Colt Steele** and learning _**HTML5, CSS3, Bootstrap, JavaScript, React, NodeJS, Web APIs**_, etc.
 
 #### My tech journey
 
