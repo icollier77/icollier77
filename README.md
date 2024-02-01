@@ -142,14 +142,14 @@ Later in the [Bootcamp][bootcamp-url] I will be learning ES6, Node.JS, Netlify, 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 January 2024 - To: 29 January 2024
+From: 24 January 2024 - To: 30 January 2024
 
-Total Time: 16 hrs 36 mins
+Total Time: 11 hrs 35 mins
 
-JavaScript   11 hrs 24 mins  >>>>>>>>>>>>>>>>>--------   68.65 %
-HTML         4 hrs 21 mins   >>>>>>>------------------   26.22 %
-Markdown     28 mins         >------------------------   02.91 %
-CSS          22 mins         >------------------------   02.22 %
+JavaScript   8 hrs 55 mins   >>>>>>>>>>>>>>>>>>>------   77.11 %
+HTML         1 hr 55 mins    >>>>---------------------   16.66 %
+Markdown     33 mins         >------------------------   04.82 %
+CSS          9 mins          -------------------------   01.42 %
 ```
 
 <!--END_SECTION:waka-->
