@@ -51,10 +51,16 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
                 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
             </td>
             <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
+            </td>
+            <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
+            <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
+            </td>
+            <td align="center" width=100px>
+            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
@@ -62,14 +68,14 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
             </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
-            </td>
+        </tr>
+        <tr>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
             </td>
-        </tr>
-        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
+            </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
             </td>
@@ -78,11 +84,6 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
-            </td>
-            <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
-            </td>
-            <td>
             </td>
             <td>
             </td>
@@ -98,12 +99,12 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
         </td>
         <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
-        <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
         </td>
        <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C">
+        </td>
+        <td>
         </td>
         <td>
         </td>
@@ -119,7 +120,7 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 ### To learn later
 
-Later in the [Bootcamp][bootcamp-url] I will be learning ES6, Node.JS, Netlify, React.
+Later in the [Bootcamp][bootcamp-url] I will be learning Express.js, test-driven development, Netlify, React, RESTful APIs.
 
 ---
 
