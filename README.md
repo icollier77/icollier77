@@ -1,5 +1,5 @@
-***<!-- ![Millenium bridge][millenium-bridge-img] -->
-<div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header">
+![Millenium bridge][millenium-bridge-img]
+<!-- <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header"> -->
 </div>
 
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
@@ -166,18 +166,18 @@ Markdown     10 mins         >------------------------   04.83 %
 <details>
     <summary>Resources</summary>
 
-<!-- - Photo of the <a href="https://unsplash.com/photos/a-view-of-st-pauls-cathedral-from-the-millennium-bridge-in-london-tvPvROBv0F4">Millenium Bridge</a> in London by <a href="https://unsplash.com/@padolsey">James Padolsey</a>. -->
+
   
 - GitHub profile template from [Laura Cole][laura-cole-url], my teacher in the [Bootcamp][bootcamp-url].
-- Animated image on top of my page from [giphy.com][programmer-giphy].
+- Photo of the [Millenium Bridge][millenium-bridge-url] in London by [James Padolsey][photographer-url].
 - Social media badges from [Shield.io][shield-url].
 - Visit counter widget from [Anton Komarev][visits-counter-url].
 - Icons for the tech skills from [devicon][skills-icons-url].
 - GitHub Stats cards from [Anurag Hazra][github-stats-url].
 - Wakatime stats from [Athul Cyriac Ajay][wakatime-url].
 - Blog post ["5 tips for making your GitHub profile page accessible"][github-accessibility-url].
-<!-- - - Another great GitHub profile used as a template from [Anya Chernova][chernova-url] -->
-
+<!-- - Animated image on top of my page from [giphy.com][programmer-giphy]. -->
+  
 <!---
 icollier77/icollier77 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -268,3 +268,6 @@ You can click the Preview link to take a look at your changes.
 [shield-url]: https://shields.io/
 
 [colt-steele-url]: https://www.udemy.com/course/the-web-developer-bootcamp/
+
+[millenium-bridge-url]:https://unsplash.com/photos/a-view-of-st-pauls-cathedral-from-the-millennium-bridge-in-london-tvPvROBv0F4
+[photographer-url]: https://unsplash.com/@padolsey
