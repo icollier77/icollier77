@@ -143,14 +143,14 @@ Later in the [Bootcamp][bootcamp-url] I will be learning Express.js, test-driven
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 04 February 2024
+From: 30 January 2024 - To: 05 February 2024
 
-Total Time: 5 hrs 12 mins
+Total Time: 5 hrs 13 mins
 
-JavaScript   4 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>>>>--   92.89 %
-Markdown     16 mins         >------------------------   05.33 %
-HTML         4 mins          -------------------------   01.56 %
-JSON         0 secs          -------------------------   00.18 %
+JavaScript   4 hrs 8 mins    >>>>>>>>>>>>>>>>>>>>-----   79.05 %
+Markdown     41 mins         >>>----------------------   13.20 %
+JSON         23 mins         >>-----------------------   07.41 %
+HTML         0 secs          -------------------------   00.26 %
 CSS          0 secs          -------------------------   00.05 %
 ```
 
