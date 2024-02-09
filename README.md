@@ -63,13 +63,16 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
             </td>
         </tr>
         <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
+            </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
             </td>
@@ -84,8 +87,6 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
-            </td>
-            <td>
             </td>
             <td>
             </td>
