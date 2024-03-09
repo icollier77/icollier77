@@ -12,7 +12,8 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 - I’m interested in both front and back end. The ultimate goal is to craft a path toward ML and AI.
 - In 2023 I started learning programming with an introduction to **computer science** through Harvard's [CS50x][CSx], basic **Python** through [CS50P][CS50P], a course from UPenn on [Computational Thinking and Problem Solving][upenn-course-url], and a course from Stanford on [Semantics of First-Order Logic][stanford-course-url].
-- Currently, I am  taking a [Front-End Web Development bootcamp][bootcamp-url] from **EdX** along with [this course][colt-steele-url] from **Colt Steele** and learning _**HTML5, CSS3, Bootstrap, JavaScript, React, NodeJS, Web APIs**_, etc.
+- In March 2024 I completed a [Front-End Web Development bootcamp][bootcamp-url] from **EdX**.
+- My plan is to keep learning full-stack web development with [this course][colt-steele-url] from **Colt Steele** and other courses.
 
 #### My tech journey
 
@@ -31,8 +32,8 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
 
 |                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonictrain&repo=dinner-and-a-movie&theme=tokyonight)]( https://github.com/sonictrain/dinner-and-a-movie )          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=weather-app-5days&theme=tokyonight)](https://github.com/icollier77/weather-app-5days)          |
-|          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=day-scheduler-app&theme=tokyonight)](https://github.com/icollier77/day-scheduler-app)          |        [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=life-in-uk-quiz&theme=tokyonight)](https://github.com/icollier77/life-in-uk-quiz)          |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoskaDowlatzay&repo=galactic-getaways&theme=tokyonight)]( https://github.com/MoskaDowlatzay/galactic-getaways )          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonictrain&repo=dinner-and-a-movie&theme=tokyonight)]( https://github.com/sonictrain/dinner-and-a-movie )          |
+|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=weather-app-5days&theme=tokyonight)](https://github.com/icollier77/weather-app-5days)           |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=day-scheduler-app&theme=tokyonight)](https://github.com/icollier77/day-scheduler-app)          |
 |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=password-generator&theme=tokyonight)](https://github.com/icollier77/password-generator)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)
 |                                                         |                                               |
 
@@ -60,18 +61,21 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
             <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
             </td>
             <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
+            </td>
+            <td align="center" width=100px>
             <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest">
             </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
-            </td>
         </tr>
         <tr>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
@@ -80,48 +84,51 @@ I love learning so after a degree in linguistics, an MBA, a 10+ year internation
                 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
             </td>
             <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
+            </td>
+            <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
             </td>
             <td align="center" width=100px>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode">
             </td>
             <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
-            </td>
-            <td>
-            </td>
-            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify">
             </td>
         </tr>
         <tr>
             <th colspan="8" style="color: #2881a5">Learning</th>
         </tr>
-        <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
-        </td>
-        <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
-        </td>
-       <td align="center" width=100px>
-            <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C">
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
+        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original.svg" title="Mongoose" alt="Mongoose">
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+            <td>
+            </td>
+        </tr>
     </tbody>
 </table>
 
 
 ### To learn later
 
-Later in the [Bootcamp][bootcamp-url] I will be learning Express.js, test-driven development, Netlify, React, RESTful APIs.
+My goal is to progress to working with Large Language Models and Natural Language Processing.
 
 ---
 
@@ -172,13 +179,13 @@ HTML         0 secs          -------------------------   00.06 %
 
   
 - GitHub profile template from [Laura Cole][laura-cole-url], my teacher in the [Bootcamp][bootcamp-url].
-- Photo of the [Millenium Bridge][millenium-bridge-url] in London by [James Padolsey][photographer-url].
 - Social media badges from [Shield.io][shield-url].
 - Visit counter widget from [Anton Komarev][visits-counter-url].
 - Icons for the tech skills from [devicon][skills-icons-url].
 - GitHub Stats cards from [Anurag Hazra][github-stats-url].
 - Wakatime stats from [Athul Cyriac Ajay][wakatime-url].
 - Blog post ["5 tips for making your GitHub profile page accessible"][github-accessibility-url].
+- Photo of the [Millenium Bridge][millenium-bridge-url] in London by [James Padolsey][photographer-url].
 <!-- - Animated image on top of my page from [giphy.com][programmer-giphy]. -->
   
 <!---
