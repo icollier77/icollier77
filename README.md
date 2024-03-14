@@ -151,15 +151,15 @@ My goal is to progress to working with Large Language Models and Natural Languag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 March 2024 - To: 11 March 2024
+From: 06 March 2024 - To: 12 March 2024
 
-Total Time: 11 hrs 17 mins
+Total Time: 9 hrs 58 mins
 
-JavaScript   7 hrs 34 mins   >>>>>>>>>>>>>>>>>--------   66.94 %
-Markdown     1 hr 47 mins    >>>>---------------------   15.80 %
-CSS          1 hr 39 mins    >>>>---------------------   14.60 %
-JSON         11 mins         -------------------------   01.76 %
-Git          3 mins          -------------------------   00.46 %
+JavaScript   6 hrs 32 mins   >>>>>>>>>>>>>>>>---------   65.56 %
+Markdown     1 hr 47 mins    >>>>---------------------   17.89 %
+CSS          1 hr 21 mins    >>>----------------------   13.53 %
+JSON         11 mins         -------------------------   01.99 %
+Git          3 mins          -------------------------   00.52 %
 ```
 
 <!--END_SECTION:waka-->
