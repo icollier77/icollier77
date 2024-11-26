@@ -151,7 +151,7 @@ My goal is to progress to working with Large Language Models and Natural Languag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 23 November 2024
+From: 18 November 2024 - To: 24 November 2024
 
 Total Time: 0 secs
 
