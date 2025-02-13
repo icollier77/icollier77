@@ -151,11 +151,14 @@ My goal is to progress to working with Large Language Models and Natural Languag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 February 2025 - To: 10 February 2025
+From: 05 February 2025 - To: 11 February 2025
 
 Total Time: 18 mins
 
-Markdown   18 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Markdown   18 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   98.34 %
+Python     0 secs          -------------------------   01.49 %
+JSON       0 secs          -------------------------   00.10 %
+Text       0 secs          -------------------------   00.07 %
 ```
 
 <!--END_SECTION:waka-->
