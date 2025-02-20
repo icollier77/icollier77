@@ -151,13 +151,11 @@ My goal is to progress to working with Large Language Models and Natural Languag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 February 2025 - To: 17 February 2025
+From: 12 February 2025 - To: 18 February 2025
 
 Total Time: 0 secs
 
-Python   0 secs          >>>>>>>>>>>>>>>>>>>>>>---   89.78 %
-JSON     0 secs          >------------------------   05.72 %
-Text     0 secs          >------------------------   04.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
