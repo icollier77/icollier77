@@ -151,11 +151,11 @@ My goal is to progress to working with Large Language Models and Natural Languag
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 April 2025 - To: 20 April 2025
+From: 14 April 2025 - To: 21 April 2025
 
-Total Time: 21 mins
+Total Time: 13 mins
 
-Python   21 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+Python   13 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
 ```
 
 <!--END_SECTION:waka-->
