@@ -1,4 +1,4 @@
-![ai-data-science][ai-data-science.img]
+![ai-data-science][ai-data-science-img]
 <!-- <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header"> -->
 </div>
 
@@ -234,6 +234,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- MARKDOWN IMAGES -->
 [ai-data-science-img]: assets/ai-data-science.jpeg
+
 [millenium-bridge-img]: assets/millenium_bridge.jpg
 
 [programmer-giphy]: https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif
