@@ -25,21 +25,11 @@ I love learning, and after a degree in linguistics, an MBA, a 10+ year internati
 
 ### **Jump to:**
 
-| [Pins](#pins) || [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
+| [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
 
  ---
-## **Pins**
-
-|                                                                                        Pinned Repos                                                                                        |                                                                                       Pinned Repos                                                                                       |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MoskaDowlatzay&repo=galactic-getaways&theme=tokyonight)]( https://github.com/MoskaDowlatzay/galactic-getaways )          |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sonictrain&repo=dinner-and-a-movie&theme=tokyonight)]( https://github.com/sonictrain/dinner-and-a-movie )          |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=weather-app-5days&theme=tokyonight)](https://github.com/icollier77/weather-app-5days)           |         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=day-scheduler-app&theme=tokyonight)](https://github.com/icollier77/day-scheduler-app)          |
-|         [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=password-generator&theme=tokyonight)](https://github.com/icollier77/password-generator)          |          [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=icollier77&repo=bootstrap-portfolio&theme=tokyonight)](https://github.com/icollier77/bootstrap-portfolio)
-|                                                         |                                               |
 
 ## Skills
-
-## Skills - DELETE
 
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
     <tbody>
