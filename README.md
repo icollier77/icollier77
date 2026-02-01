@@ -8,7 +8,7 @@
 
 ## About Me:
 
-I love learning, and after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from the University of Cambridge, and a startup experience, I am now focused on **Data Science, Machine Learning, and AI** [studies][cambridge-data-science-url].
+I love learning, and after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from the University of Cambridge, and a startup experience, I am now focused on **Data Science, Machine Learning, and AI**.
 
 - I’m interested in applied **data science and ML**, with a growing focus on AI strategy.
 - I work primarily with **Python**, statistics, and ML fundamentals to solve business problems.
@@ -25,7 +25,7 @@ I love learning, and after a degree in linguistics, an MBA, a 10+ year internati
 
 ### **Jump to:**
 
-| [Skills](#skills) || [Stats](#stats) || [Credits](#credits) |
+| [Skills](#skills) || [Stats](#stats) || [Courses](#courses) || [Credits](#credits) |
 
  ---
 
@@ -96,6 +96,16 @@ I love learning, and after a degree in linguistics, an MBA, a 10+ year internati
 
 My goal is to progress to working with **Large Language Models** and **Natural Language Processing**.
 
+----------------
+
+## Courses
+
+- Cambridge [Data Science with AI and ML][cambridge-data-science-url]
+- Harvard [CS50x][CSx-url]
+- Harvard [CS50P][CS50P-url]
+- UPenn [Computational Thinking and Problem Solving][upenn-course-url]
+- Stanford [Semantics of First-Order Logic][stanford-course-url]
+- EdX [Front-End Web Development bootcamp][bootcamp-url])
 ----------------
 
 ## Stats
