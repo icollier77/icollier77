@@ -8,11 +8,11 @@
 
 ## About Me:
 
-With a background spanning linguistics, finance, and over a decade in international, data-driven roles within the financial industry and startups, I am now focused on Data Science, Machine Learning, and AI, supported by formal training through the Fourth Rev / University of Cambridge Data Science programme.
-	•	My interests centre on applied data science and ML, with an emphasis on AI strategy and decision-making.
-	•	I work primarily with Python, statistics, and ML fundamentals to address business and commercial problems.
-	•	I have built strong technical foundations across computer science, computational thinking, and formal logic, and have completed a Front-End Web Development bootcamp.
-	•	My goal is to operate as a commercially fluent AI/Data Strategist in early-stage tech startups.
+With a background spanning linguistics, finance, and over a decade in international, data-driven roles within the financial industry and startups, I am now focused on Data Science, Machine Learning, and AI, supported by formal training through the **Fourth Rev / University of Cambridge Data Science programme**.
+- My interests centre on applied **data science and ML**, with an emphasis on AI strategy and decision-making.
+- I work primarily with **Python**, statistics, and ML fundamentals to address business and commercial problems.
+- I have built strong technical foundations across **computer science, computational thinking, and formal logic, and have completed a Front-End Web Development bootcamp**.
+- My goal is to operate as a **commercially fluent AI/Data Strategist** in early-stage tech startups.
 
 #### My work
 [![My Repositories][my-repo-badge]][my-repo-url] 
