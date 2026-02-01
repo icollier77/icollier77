@@ -39,39 +39,68 @@ I love learning, and after a degree in linguistics, an MBA, a 10+ year internati
 
 ## Skills
 
+## Skills - DELETE
+
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
- <tbody>
-  <tr>
-   <th colspan="8" style="color: #2881a5">Current Skills</th>
-  </tr>
-  <tr>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
-   </td>
-   <td align="center" width="100px">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
-   </td>
-  </tr>
- </tbody>
+    <tbody>
+        <tr>
+            <th colspan="8" style="color: #2881a5">Current Skills</th>
+        </tr>
+        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
+            </td>
+             <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
+            </td>
+        </tr>
+        <tr>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
+            </td>
+            <td align="center" width=100px>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode">
+            </td>
+        </tr>
+    </tbody>
 </table>
+
 
 ### To learn later
 
