@@ -4,20 +4,18 @@
 
 # 👋 Hello! Welcome to my GitHub! I am [Inessa Collier][linkedin-url].
 
-### I blend my background in business 💼 with data science and AI 💻 to help translate technology solutions into real-world impact.
+### I work at the intersection of business strategy 💼, data science, and AI 💻, translating technology capability into real-world impact.
 
 ## About Me:
 
-I love learning, and after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from the University of Cambridge, and a startup experience, I am now focused on **Data Science, Machine Learning, and AI**.
+With a background spanning linguistics, finance, and over a decade in international, data-driven roles within the financial industry and startups, I am now focused on Data Science, Machine Learning, and AI, supported by formal training through the Fourth Rev / University of Cambridge Data Science programme.
+	•	My interests centre on applied data science and ML, with an emphasis on AI strategy and decision-making.
+	•	I work primarily with Python, statistics, and ML fundamentals to address business and commercial problems.
+	•	I have built strong technical foundations across computer science, computational thinking, and formal logic, and have completed a Front-End Web Development bootcamp.
+	•	My goal is to operate as a commercially fluent AI/Data Strategist in early-stage tech startups.
 
-- I’m interested in applied **data science and ML**, with a growing focus on AI strategy.
-- I work primarily with **Python**, statistics, and ML fundamentals to solve business problems.
-- I have studied **computer science, Python, computational thinking, and formal logic** through coursework from Harvard([CS50x][CSx-url], [CS50P][CS50P-url]), UPenn ([Computational Thinking and Problem Solving][upenn-course-url]), and Stanford ([Semantics of First-Order Logic][stanford-course-url]), and **completed a Front-End Web Development bootcamp** ([EdX][bootcamp-url]).
-- My goal is to grow into a **commercially fluent AI/Data Strategist** in early-stage startups.
-
-#### My tech journey
+#### My work
 [![My Repositories][my-repo-badge]][my-repo-url] 
-[![my freeCodeCamp][freecodecamp-badge]][freecodecamp-url]
 
 #### Let's connect
 
