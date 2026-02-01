@@ -40,98 +40,43 @@ I love learning, and after a degree in linguistics, an MBA, a 10+ year internati
 ## Skills
 
 <table border="1px solid white" align="center" color="#2881a5" style="background-color: #040f0f; border: 1px solid white; border-radius: 4px">
-    <tbody>
-        <tr>
-            <th colspan="8" style="color: #2881a5">Current Skills</th>
-        </tr>
-        <tr>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
-            </td>
-        </tr>
-
-        <tr>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="pandas" alt="pandas">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="scikit-learn" alt="scikit-learn">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="Jupyter" alt="Jupyter">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify">
-            </td>
-        </tr>
-
-        <tr>
-            <th colspan="8" style="color: #2881a5">Learning</th>
-        </tr>
-        <tr>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma">
-            </td>
-            <td align="center" width=100px>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva">
-            </td>
-            <td>
-            </td>
-        </tr>
-    </tbody>
+ <tbody>
+  <tr>
+   <th colspan="8" style="color: #2881a5">Current Skills</th>
+  </tr>
+  <tr>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub">
+   </td>
+   <td align="center" width="100px">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown">
+   </td>
+  </tr>
+ </tbody>
 </table>
 
 ### To learn later
 
 My goal is to progress to working with **Large Language Models** and **Natural Language Processing**.
+
 ----------------
 
 ## Stats
