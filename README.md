@@ -8,11 +8,11 @@
 
 ## About Me:
 
-I love learning, and after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from Cambridge, and a startup experience, I am now focused on **[Data Science, Machine Learning, and AI]**[cambridge-data-science-url].
+I love learning, and after a degree in linguistics, an MBA, a 10+ year international career in the financial industry, a Post-Graduate Diploma from the University of Cambridge, and a startup experience, I am now focused on **Data Science, Machine Learning, and AI** [studies][cambridge-data-science-url].
 
 - I’m interested in applied **data science and ML**, with a growing focus on AI strategy.
 - I work primarily with **Python**, statistics, and ML fundamentals to solve business problems.
-- I have studied **computer science, Python, computational thinking, and formal logic** through coursework from Harvard([CS50x][CSx-url], [CS50P][CS50P-url]), UPenn ([Computational Thinking and Problem Solving][upenn-course-url]), and Stanford ([Semantics of First-Order Logic][stanford-course-url]), and **completed a [Front-End Web Development bootcamp]**[bootcamp-url] (EdX).
+- I have studied **computer science, Python, computational thinking, and formal logic** through coursework from Harvard([CS50x][CSx-url], [CS50P][CS50P-url]), UPenn ([Computational Thinking and Problem Solving][upenn-course-url]), and Stanford ([Semantics of First-Order Logic][stanford-course-url]), and **completed a Front-End Web Development bootcamp** ([EdX][bootcamp-url]).
 - My goal is to grow into a **commercially fluent AI/Data Strategist** in early-stage startups.
 
 #### My tech journey
