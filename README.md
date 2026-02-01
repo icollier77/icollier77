@@ -1,4 +1,4 @@
-![ai-data-science][ai-data-science-img]
+<img src="assets/ai-banner.png">
 <!-- <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header"> -->
 </div>
 
