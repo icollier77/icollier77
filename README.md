@@ -105,7 +105,7 @@ My goal is to progress to working with **Large Language Models** and **Natural L
 - Harvard [CS50P][CS50P-url]
 - UPenn [Computational Thinking and Problem Solving][upenn-course-url]
 - Stanford [Semantics of First-Order Logic][stanford-course-url]
-- EdX [Front-End Web Development bootcamp][bootcamp-url])
+- EdX [Front-End Web Development bootcamp][bootcamp-url]
 ----------------
 
 ## Stats
