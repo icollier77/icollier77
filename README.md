@@ -1,4 +1,4 @@
-<img src="assets/ai-banner.png">
+<img src="assets/ai-human.jpg">
 <!-- <div align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Header"> -->
 </div>
 
