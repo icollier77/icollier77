@@ -125,7 +125,7 @@ My goal is to progress to working with **Large Language Models** and **Natural L
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 April 2026 - To: 07 May 2026
+From: 01 May 2026 - To: 08 May 2026
 
 Total Time: 1 hr 21 mins
 
