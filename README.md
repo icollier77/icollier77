@@ -125,15 +125,15 @@ My goal is to progress to working with **Large Language Models** and **Natural L
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-Total Time: 1 hr 43 mins
+Total Time: 21 mins
 
-Markdown     38 mins               >>>>>>>>-----------------   30.67 %
-HTML         25 mins               >>>>>--------------------   20.66 %
-Other        21 mins               >>>>---------------------   17.09 %
-JavaScript   17 mins               >>>----------------------   13.87 %
-JSON         10 mins               >>-----------------------   08.44 %
+Markdown     12 mins               >>>>>>>>>>>>>>-----------   56.68 %
+HTML         7 mins                >>>>>>>>-----------------   32.42 %
+TypeScript   1 min                 >>-----------------------   08.24 %
+Other        0 secs                -------------------------   01.72 %
+JSON         0 secs                -------------------------   00.93 %
 ```
 
 <!--END_SECTION:waka-->
